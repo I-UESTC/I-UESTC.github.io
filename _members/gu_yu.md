@@ -10,8 +10,14 @@ links:
   home-page: https://faculty.uestc.edu.cn/guyu/zh_CN/index/477267/list/index.htm
   orcid: 0000-0002-3187-6668
 ---
-Professor,
-Huangshan Mountain Young Scholar, 
-IEEE Senior Member,
-University of Electronic Science and Technology of China.
-yugu.bruce@gmail.com
+教育经历：
+(1) 2004-09 至 2010-07, 中国科学技术大学, 计算机科学与技术, 博士
+(2) 2007-12 至 2008-12, 日本筑波大学（CSC高水平联合培养博士生）, 计算机科学, 其他
+(3) 2000-09 至 2004-07, 中国科学技术大学, 少年班, 学士
+博士后工作经历：
+(1) 2010-11 至 2012-10, 日本国立情报学研究所，日本学术振兴委员会
+科研与学术工作经历（博士后工作经历除外）：
+(1) 2023-01 至 今, 电子科技大学, 计算机科学与工程学院, 教授
+(2) 2012-11 至 2022-12, 合肥工业大学, 计算机与信息学院, 教授
+(3) 2010-07 至 2010-10, 日本国立情报学研究所, 信息系统架构研究部, 研究员
+(4) 2006-02 至 2006-08, 微软亚洲研究院, 无线网络组, 无
