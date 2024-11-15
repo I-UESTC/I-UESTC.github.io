@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: I-UESTC
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: I+ Lab
+subtitle: Intelligent Interaction Lab
+description: The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI), Machine Learning (ML) and Hardware Design (HD) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@I-UESTC.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: iplus2024@163.com
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
   github: I-UESTC
-  twitter: I-UESTC
-  youtube: I-UESTC
+  # twitter: I-UESTC
+  # youtube: I-UESTC
 
 ### jekyll settings
 
