@@ -1,7 +1,7 @@
 ---
 name: 高晨昊
 image: images/gao_chenhao.png
-role: undergrad
+role: postgrad
 affiliation: UESTC
 aliases:
   - 高晨昊
