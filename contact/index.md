@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our laboratory is part of the School of Computer Science and Engineering (Cyberspace Security) at the University of Electronic Science and Technology of China (UESTC). Nestled in the vibrant city of Chengdu, Sichuan, we thrive at the intersection of innovation and tradition, fostering groundbreaking research in a dynamic academic environment.
 
 {%
   include button.html
@@ -17,17 +15,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="jane@smith.com"
   link="jane@smith.com"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location on AMAP for easy navigation"
+  link="https://surl.amap.com/3rC3njjOVbN5"
 %}
 
 {% include section.html %}
@@ -37,7 +30,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="电子科技大学"
 %}
 
 {% endcapture %}
@@ -47,31 +40,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="团队活动"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
