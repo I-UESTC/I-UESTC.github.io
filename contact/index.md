@@ -29,8 +29,8 @@ Our laboratory is part of the School of Computer Science and Engineering (Cybers
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="电子科技大学"
+  image="images/test4.jpg"
+  caption="Our School"
 %}
 
 {% endcapture %}
@@ -39,8 +39,8 @@ Our laboratory is part of the School of Computer Science and Engineering (Cybers
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="团队活动"
+  image="images/test5.jpg"
+  caption="Our team activity"
 %}
 
 {% endcapture %}
