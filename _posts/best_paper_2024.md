@@ -1,0 +1,13 @@
+---
+title: 任福继院士团队谷雨研究员荣获2024年度IEEE SMC学会最佳汇刊论文奖
+image: https://news.uestc.edu.cn/upload/image/ce6cad87e4c634387e5c38a95288b6c8.jpg
+author: 谷雨、李铭昕
+tags: best paper, WiFi
+---
+<!-- excerpt start -->
+10月6日至10日，在马来西亚举办的IEEE Systems, Man, and Cybernetics Society年会（IEEE SMC 2024）国际会议上，电子科技大学计算机（网安）学院任福继院士团队的谷雨研究员在国际期刊IEEE Transactions on Human-Machine Systems上发表的论文《WiGRUNT: WiFi-Enabled Gesture Recognition Using Dual-Attention Network》获2024年度Andrew P. Sage最佳汇刊论文奖（IEEE Andrew P. Sage Best Transactions Paper Award）。该奖由IEEE SMC学会设立，自1998年以来每年评选一次，授予前一周期年在IEEE SMC学会会刊所发表的论文中最具有原创性理论与技术和重要影响力的学术论文。<br>
+<!-- excerpt end -->
+该论文提出了一种基于WiFi信号的手势识别方法，名为WiGRUNT。这项研究创新性地提出了双注意力网络（Dual-Attention Network）架构，实现了在无穿戴设备的条件下，通过现有WiFi信号进行精确的手势识别。这一技术在智能家居、健康监测和人机交互领域具有广泛的应用前景。<br>
+任福继院士领导的情溢天海先进智能实验室汇聚了多位国家级专家，致力于推动人机情感交互领域的研究。任院士在国际上首次提出“心状态转移网络”理论及“人机情感交互”方向，旨在跨越人机交互情感鸿沟，营造自然而温暖的人机交互环境。该方向入选该年度中国科学技术协会信息科技领域六大“硬骨头”重大科学问题和工程技术难题。围绕“人机情感交互”，实验室在情感计算、普适计算、人工智能、共融机器人等基础理论与关键技术等方向开展研究工作，在多源大数据库、基础理论、计算方法和系统验证等方面形成了丰富的成果积累。<br>
+THMS是专注于人机系统领域的国际期刊，涵盖认知人体工程学、系统测试与评估以及人类信息处理等方面的研究。自2013年创刊以来，一直致力于报道全球计算机科学和人工智能领域的前沿科研成果。
+
