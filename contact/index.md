@@ -12,8 +12,8 @@ Our laboratory is part of the School of Computer Science and Engineering (Cybers
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="谷雨@uestc.edu.cn"
+  link="谷雨@uestc.edu.cn"
 %}
 
 {%
