@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!--
   put your analytics (e.g. Google Analytics) tracking code here
 -->
@@ -39,48 +38,39 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Example post 2 | I+ Lab</title>
+<title>沈明辉 | I+ Lab</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Example post 2">
+<meta name="title" content="沈明辉">
 <meta name="description" content="Intelligent Interaction Lab. The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI) and Machine Learning (ML) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.">
 
-<meta property="og:title" content="Example post 2">
+<meta property="og:title" content="沈明辉">
 <meta property="og:site_title" content="I+ Lab">
 <meta property="og:description" content="Intelligent Interaction Lab. The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI) and Machine Learning (ML) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.">
 <meta property="og:url" content="https://i-uestc.github.io">
 <meta property="og:image" content="/images/share.png">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Example post 2">
+<meta property="twitter:title" content="沈明辉">
 <meta property="twitter:description" content="Intelligent Interaction Lab. The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI) and Machine Learning (ML) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.">
 <meta property="twitter:url" content="https://i-uestc.github.io">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.png">
 
 
-  <meta name="author" content="&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
-">
-  <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-11-18T02:15:20+00:00">
-  <meta property="article:published_time" content="2021-09-30T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-11-18T02:15:20+00:00">
-  <meta name="revised" content="2024-11-18T02:15:20+00:00">
+  <meta property="og:type" content="website">
 
 
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     
-      "@type": "BlogPosting",
-      "author": { "@type": "Person", "name": "Example post 2" },
-      "datePublished": "2021-09-30T00:00:00+00:00",
-      "dateModified": "2024-11-18T02:15:20+00:00",
+      "@type": "WebSite",
     
-    "name": "Example post 2",
+    "name": "沈明辉",
     "description": "Intelligent Interaction Lab. The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI) and Machine Learning (ML) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.",
-    "headline": "Example post 2",
+    "headline": "沈明辉",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -95,200 +85,343 @@
 <!-- automatically get url from fonts used in theme file -->
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link
+  href="https://use.fontawesome.com/releases/v6.5.0/css/all.css"
+  rel="stylesheet"
+  media="none"
+  onload="this.removeAttribute('media'); this.onload = null;"
+/>
 <noscript>
   <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
 <!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
-<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+<link 
+  href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
+  rel="stylesheet"
+/>
 
 <!-- include all sass in styles folder -->
 
 
   
-    <link href="/_styles/-theme.css" rel="stylesheet">
+    <link
+      href="/_styles/-theme.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/alert.css" rel="stylesheet">
+    <link
+      href="/_styles/alert.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/all.css" rel="stylesheet">
+    <link
+      href="/_styles/all.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/anchor.css" rel="stylesheet">
+    <link
+      href="/_styles/anchor.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/background.css" rel="stylesheet">
+    <link
+      href="/_styles/background.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/body.css" rel="stylesheet">
+    <link
+      href="/_styles/body.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/bold.css" rel="stylesheet">
+    <link
+      href="/_styles/bold.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/button.css" rel="stylesheet">
+    <link
+      href="/_styles/button.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/card.css" rel="stylesheet">
+    <link
+      href="/_styles/card.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/checkbox.css" rel="stylesheet">
+    <link
+      href="/_styles/checkbox.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/citation.css" rel="stylesheet">
+    <link
+      href="/_styles/citation.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/code.css" rel="stylesheet">
+    <link
+      href="/_styles/code.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/cols.css" rel="stylesheet">
+    <link
+      href="/_styles/cols.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/dark-toggle.css" rel="stylesheet">
+    <link
+      href="/_styles/dark-toggle.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/details.css" rel="stylesheet">
+    <link
+      href="/_styles/details.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/feature.css" rel="stylesheet">
+    <link
+      href="/_styles/feature.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/figure.css" rel="stylesheet">
+    <link
+      href="/_styles/figure.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/float.css" rel="stylesheet">
+    <link
+      href="/_styles/float.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/font.css" rel="stylesheet">
+    <link
+      href="/_styles/font.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/footer.css" rel="stylesheet">
+    <link
+      href="/_styles/footer.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/form.css" rel="stylesheet">
+    <link
+      href="/_styles/form.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/grid.css" rel="stylesheet">
+    <link
+      href="/_styles/grid.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/header.css" rel="stylesheet">
+    <link
+      href="/_styles/header.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/heading.css" rel="stylesheet">
+    <link
+      href="/_styles/heading.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/highlight.css" rel="stylesheet">
+    <link
+      href="/_styles/highlight.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/icon.css" rel="stylesheet">
+    <link
+      href="/_styles/icon.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/image.css" rel="stylesheet">
+    <link
+      href="/_styles/image.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/link.css" rel="stylesheet">
+    <link
+      href="/_styles/link.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/list.css" rel="stylesheet">
+    <link
+      href="/_styles/list.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/main.css" rel="stylesheet">
+    <link
+      href="/_styles/main.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/paragraph.css" rel="stylesheet">
+    <link
+      href="/_styles/paragraph.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/portrait.css" rel="stylesheet">
+    <link
+      href="/_styles/portrait.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/post-excerpt.css" rel="stylesheet">
+    <link
+      href="/_styles/post-excerpt.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/post-info.css" rel="stylesheet">
+    <link
+      href="/_styles/post-info.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/post-nav.css" rel="stylesheet">
+    <link
+      href="/_styles/post-nav.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/quote.css" rel="stylesheet">
+    <link
+      href="/_styles/quote.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/rule.css" rel="stylesheet">
+    <link
+      href="/_styles/rule.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/search-box.css" rel="stylesheet">
+    <link
+      href="/_styles/search-box.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/search-info.css" rel="stylesheet">
+    <link
+      href="/_styles/search-info.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/section.css" rel="stylesheet">
+    <link
+      href="/_styles/section.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/table.css" rel="stylesheet">
+    <link
+      href="/_styles/table.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/tags.css" rel="stylesheet">
+    <link
+      href="/_styles/tags.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/textbox.css" rel="stylesheet">
+    <link
+      href="/_styles/textbox.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/tooltip.css" rel="stylesheet">
+    <link
+      href="/_styles/tooltip.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/util.css" rel="stylesheet">
+    <link
+      href="/_styles/util.css"
+      rel="stylesheet"
+    />
   
 
 
@@ -330,7 +463,14 @@
 
 
 
-<header class="background" style="--image: url('/images/background_1.jpg')" data-dark="true">
+<header
+  class="background"
+  style="--image: url('/images/background_1.jpg')"
+  
+    data-dark="true"
+  
+  
+>
   <a href="/" class="home">
     
       <span class="logo">
@@ -357,31 +497,46 @@
     
     
       
-        <a href="/research/" data-tooltip="Published works">
+        <a
+          href="/research/"
+          data-tooltip="Published works"
+        >
           Research
         </a>
       
     
       
-        <a href="/projects/" data-tooltip="Software, datasets, and more">
+        <a
+          href="/projects/"
+          data-tooltip="Software, datasets, and more"
+        >
           Projects
         </a>
       
     
       
-        <a href="/team/" data-tooltip="About our team">
+        <a
+          href="/team/"
+          data-tooltip="About our team"
+        >
           Team
         </a>
       
     
       
-        <a href="/blog/" data-tooltip="Musings and miscellany">
+        <a
+          href="/blog/"
+          data-tooltip="Musings and miscellany"
+        >
           Blog
         </a>
       
     
       
-        <a href="/contact/" data-tooltip="Email, address, and location">
+        <a
+          href="/contact/"
+          data-tooltip="Email, address, and location"
+        >
           Contact
         </a>
       
@@ -406,91 +561,76 @@
   
   
 
-  <section class="background" data-size="1">
-    <!--
-  background: ;
-  dark: ;
-  size: 1;
--->
-
-
-<h1 class="center">Example post 2</h1>
-
-<div class="post-info">
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
+    <div
+  class="float"
   
+  
+>
+  
+<div class="portrait-wrapper">
+  <a class="portrait" data-style="" aria-label="沈明辉">
     
+      <i class="icon fa-solid fa-user-graduate"></i>
     
-      <span data-tooltip="Author">
-        <i class="icon fa-solid fa-feather-pointed"></i>
-        <span>jane-smith</span>
+
+    <img src="/images/cao_jinjie.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+
+    
+      <span class="portrait-name">
+        沈明辉
       </span>
     
-  
 
-  
-  
+    
+      <span class="portrait-description">
+        Undergraduate Student
+      </span>
+    
 
-  
-    <span data-tooltip="Originally published on">
-      <i class="icon fa-regular fa-calendar"></i>
-      <span>September 30, 2021</span>
-    </span>
-  
+    
+      <span class="portrait-affiliation">
+        UESTC
+      </span>
+    
+  </a>
+</div>
 
-  
-    <span data-tooltip="Last updated on">
-      <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>November 18, 2024</span>
-    </span>
+<div>
   
 </div>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-
-<div class="post-nav">
-  <span>
-    
-      <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2019/01/07/example-post-1.html">
-        Example post 1
-      </a>
-    
-  </span>
-  <span>
-    
-      Next post <i class="icon fa-solid fa-angle-right"></i><br>
-      <a href="/2023/02/23/example-post-3.html">
-        Example post 3
-      </a>
-    
-  </span>
 </div>
+
+
+电子科技大学计算机科学与技术专业硕士研究生在读，研究方向为多模态的人机交互
+
+
+
+
+
+
+<p class="center">
+  <a href="/research/?search=%22%E6%B2%88%E6%98%8E%E8%BE%89%22%20%22Minghui%20Shen%22%20">
+    Search for 沈明辉's papers on the Research page
+  </a>
+</p>
+
+
+
+<!--
+<p class="center">
+  <a href="/blog/?search=%E6%B2%88%E6%98%8E%E8%BE%89">
+    See 沈明辉's posts on the Blog page
+  </a>
+</p>
+-->
   </section>
 
 
@@ -498,7 +638,14 @@
     
 
 
-<footer class="background" style="--image: url('/images/background_1.jpg')" data-dark="true" data-size="wide">
+<footer
+  class="background"
+  style="--image: url('/images/background_1.jpg')"
+  
+    data-dark="true"
+  
+  data-size="wide"
+>
   <!--
     <div>
       Extra details like contact info or address
@@ -514,7 +661,16 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="mailto:iplus2024@163.com" data-tooltip="Email" data-style="bare" aria-label="Email">
+    <a
+      class="button"
+      href="mailto:iplus2024@163.com"
+      
+        data-tooltip="Email"
+      
+      data-style="bare"
+      
+      aria-label="Email"
+    >
       <i class="icon fa-solid fa-envelope"></i>
       
     </a>
@@ -529,7 +685,16 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://github.com/I-UESTC" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+    <a
+      class="button"
+      href="https://github.com/I-UESTC"
+      
+        data-tooltip="GitHub"
+      
+      data-style="bare"
+      
+      aria-label="GitHub"
+    >
       <i class="icon fa-brands fa-github"></i>
       
     </a>
@@ -540,15 +705,21 @@
   </div>
 
   <div>
-    © 2024
+    &copy; 2024
     I+ Lab
-      |   Built with
+    &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
   </div>
 
-  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+  <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  >
 </footer>
 
   </body>
