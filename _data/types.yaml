@@ -13,6 +13,10 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+  
+postgrad:
+  icon: fa-solid fa-book-open-reade
+  description: postgraduate Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
