@@ -1,6 +1,6 @@
 ---
 name: 沈明辉
-image: images/cao_jinjie.png
+image: images/shen_minghui.png
 role: undergrad
 affiliation: UESTC
 aliases:
