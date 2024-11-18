@@ -11,7 +11,11 @@
   publisher: 2024 IEEE International Conference on Multimedia and Expo (ICME)
   date: '2024-07-15'
   link: https://doi.org/g8q9s3
-  image: https://csdl-images.ieeecomputer.org/website/default-covers/proceedings/proceedings.jpg
+  image: images/K-Face Net.gif
+  tags:
+  - facial expression recognition
+  - class imbalance
+  - representation learning
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/INFOCOM52122.2024.10621430
@@ -27,7 +31,12 @@
   publisher: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
   date: '2024-05-20'
   link: https://doi.org/g8q9s4
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/MultiHGR.gif
+  tags:
+  - Multi-Task
+  - Hand Gesture Recognition
+  - Cross-Modality
+  - Wrist-Worn Devices
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TAFFC.2024.3399328
@@ -45,6 +54,151 @@
   publisher: IEEE Transactions on Affective Computing
   date: '2024-01-01'
   link: https://doi.org/g8q9s5
-  image: https://csdl-images.ieeecomputer.org/website/default-covers/trans/ta.jpg
+  image: images/EmoTake.png
+  tags:
+  - Affect Analysis
+  - Decision-making
+  - Unobtrusive
+  - Dataset
+  - AI-human Interaction
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3639824
+  title: Adaptive Offloading of Transformer Inference for Weak Edge Devices with Masked
+    Autoencoders
+  authors:
+  - Tao Liu
+  - Peng Li
+  - Yu Gu
+  - Peng Liu
+  - Hao Wang
+  publisher: ACM Transactions on Sensor Networks
+  date: '2024-01-13'
+  link: https://doi.org/g8q952
+  image: images/Adaptive Ofloading.png
+  tags:
+  - sensor
+  - edge
+  - inference
+  - MAE
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TMC.2023.3338954
+  title: 'PhyFinAtt: An Undetectable Attack Framework Against PHY Layer Fingerprint-Based
+    WiFi Authentication'
+  authors:
+  - Jinyang Huang
+  - Bin Liu
+  - Chenglin Miao
+  - Xiang Zhang
+  - Jianchun Liu
+  - Lu Su
+  - Zhi Liu
+  - Yu Gu
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2024-07-01'
+  link: https://doi.org/g8q953
+  image: images/PhyFinAtt.gif
+  tags:
+  - WiFi connection
+  - MAC forgery attack
+  - authentication based on PHY information
+  - fingerprint attack
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/THMS.2023.3264247
+  title: 'Wital: A COTS WiFi Devices Based Vital Signs Monitoring System Using NLOS
+    Sensing Model'
+  authors:
+  - Xiang Zhang
+  - Yu Gu
+  - Huan Yan
+  - Yantong Wang
+  - Mianxiong Dong
+  - Kaoru Ota
+  - Fuji Ren
+  - Yusheng Ji
+  publisher: IEEE Transactions on Human-Machine Systems
+  date: '2023-06-01'
+  link: https://doi.org/g8q954
+  image: images/Wital.png
+  tags:
+  - Wi-Fi
+  - CSI
+  - sleep monitoring
+  - vital signs
+  - wireless sensing
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3583780.3614806
+  title: Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation
+  authors:
+  - Zheng Hu
+  - Satoshi Nakagawa
+  - Liang Luo
+  - Yu Gu
+  - Fuji Ren
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/g8q955
+  image: images/CGCL.png
+  tags:
+  - Social Recommendation
+  - Celebrity Effect
+  - Graph Neural Network
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/MCOM.001.2200852
+  title: Emotion-Aware Takeover Performance Prediction System in Semi-Autonomous Driving
+  authors:
+  - Yantong Wang
+  - Yu Gu
+  - Fuji Ren
+  publisher: IEEE Communications Magazine
+  date: '2023-10-01'
+  link: https://doi.org/g8q956
+  image: images/Emotion-Aware.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/BIGCOM61073.2023.00016
+  title: Reinforcement Learning based Attack Timing Optimization in Inter-domain Networks
+  authors:
+  - Yibing Weng
+  - Yunsheng Guo
+  - Yu Gu
+  publisher: 2023 9th International Conference on Big Data Computing and Communications
+    (BigCom)
+  date: '2023-08-04'
+  link: https://doi.org/g8q957
+  image: images/DQN.gif
+  tags:
+  - "\u2014Inter-domain networks"
+  - Border Gateway Protocols
+  - Attack Timing Optimization
+  - Deep Q-Network
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TAFFC.2023.3285777
+  title: 'WiFE: WiFi and Vision Based Unobtrusive Emotion Recognition via Gesture
+    and Facial Expression'
+  authors:
+  - Yu Gu
+  - Xiang Zhang
+  - Huan Yan
+  - Jingyang Huang
+  - Zhi Liu
+  - Mianxiong Dong
+  - Fuji Ren
+  publisher: IEEE Transactions on Affective Computing
+  date: '2023-10-01'
+  link: https://doi.org/g8q958
+  image: images/WiFE.gif
+  tags:
+  - Gesture recognition
+  - facial expression
+  - emotion recognition
+  - multimodal
+  - channel state information
   plugin: sources.py
   file: sources.yaml
