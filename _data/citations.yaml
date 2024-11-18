@@ -13,6 +13,7 @@
   link: https://doi.org/g8q9s3
   image: images/K-Face Net.gif
   tags:
+  - CCF B
   - facial expression recognition
   - class imbalance
   - representation learning
@@ -33,6 +34,7 @@
   link: https://doi.org/g8q9s4
   image: images/MultiHGR.gif
   tags:
+  - CCF A
   - Multi-Task
   - Hand Gesture Recognition
   - Cross-Modality
@@ -100,6 +102,7 @@
   link: https://doi.org/g8q953
   image: images/PhyFinAtt.gif
   tags:
+  - CCF A
   - WiFi connection
   - MAC forgery attack
   - authentication based on PHY information
@@ -144,6 +147,7 @@
   link: https://doi.org/g8q955
   image: images/CGCL.png
   tags:
+  - CCF B
   - Social Recommendation
   - Celebrity Effect
   - Graph Neural Network
@@ -173,7 +177,8 @@
   link: https://doi.org/g8q957
   image: images/DQN.gif
   tags:
-  - "\u2014Inter-domain networks"
+  - CCF C
+  - Inter-domain networks
   - Border Gateway Protocols
   - Attack Timing Optimization
   - Deep Q-Network
@@ -195,6 +200,7 @@
   link: https://doi.org/g8q958
   image: images/WiFE.gif
   tags:
+  - CCF C
   - Gesture recognition
   - facial expression
   - emotion recognition
