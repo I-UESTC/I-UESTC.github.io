@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is part of the School of Computer Science and Engineering (Cyberspace Security) at the University of Electronic Science and Technology of China (UESTC). Nestled in the vibrant city of Chengdu, Sichuan, we thrive at the intersection of innovation and tradition, fostering groundbreaking research in a dynamic academic environment.
+Our laboratory is part of the School of Computer Science and Engineering(School ofCyber Security) at the University of Electronic Science and Technology of China (UESTC). Nestled in the vibrant city of Chengdu, Sichuan, we thrive at the intersection of innovation and tradition, fostering groundbreaking research in a dynamic academic environment.
 
 {%
   include button.html
