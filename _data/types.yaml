@@ -11,11 +11,11 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-glasses
   description: PhD Student
   
 postgrad:
-  icon: fa-solid fa-book-open-reade
+  icon: fa-solid fa-graduation-cap
   description: postgraduate Student
 
 undergrad:
