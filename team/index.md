@@ -22,5 +22,3 @@ We are the Intelligent Interaction (I+) Lab, dedicated to advancing smart sensin
 # Undergrad Student
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
-
-{% include grid.html style="square" content=content %}
