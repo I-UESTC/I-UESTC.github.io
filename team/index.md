@@ -7,29 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are the Intelligent Interaction (I+) Lab, dedicated to advancing smart sensing and context-aware technologies through Signal Processing, AI, Machine Learning, and Hardware Design. Focused on pervasive and affective computing, we foster innovation, inclusivity, and collaboration in tackling real-world challenges.
 
 {% include section.html %}
-
+# Professor
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+# PhD Student
+{% include list.html data="members" component="portrait" filter="role = 'phd'" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Postgraduate Student
+{% include list.html data="members" component="portrait" filter="role = 'postgrad'" %}
 
-{% include section.html %}
+# Undergrad Student
+{% include list.html data="members" component="portrait" filter="role = 'undergrad'" %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}
