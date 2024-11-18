@@ -16,7 +16,7 @@ phd:
   
 postgrad:
   icon: fa-solid fa-graduation-cap
-  description: postgraduate Student
+  description: Postgraduate Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
