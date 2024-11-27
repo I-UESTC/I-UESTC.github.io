@@ -17,9 +17,6 @@ This page highlights the main research directions of our laboratory. We focus on
   {%
   include feature.html
   image="https://github.com/yibingweng/EmoTake/raw/main/overview.png"
-  link="research"
-  title="Our Research"
-  text=text
   %}
 {% endcapture %}
 
