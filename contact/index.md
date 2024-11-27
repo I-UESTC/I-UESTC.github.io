@@ -29,8 +29,8 @@ Our laboratory is part of the School of Computer Science and Engineering(School 
 
 {%
   include figure.html
-  image="images/test4.jpg"
-  caption="Our School"
+  image="https://en.uestc.edu.cn/__local/5/9F/DE/4416E81A6E0F6311E93D5B4A00D_6D3CFB8A_23B6A.jpg?e=.jpg"
+  caption="Night Scene of Our School's Library "
 %}
 
 {% endcapture %}
@@ -39,8 +39,8 @@ Our laboratory is part of the School of Computer Science and Engineering(School 
 
 {%
   include figure.html
-  image="images/test5.jpg"
-  caption="Our team activity"
+  image="https://en.uestc.edu.cn/__local/4/AB/03/8731E83CC12E21E50E5B45123D5_00466EB5_2BBA5.jpg?e=.jpg"
+  caption="This is the Main Building of our school, where our laboratory is also located."
 %}
 
 {% endcapture %}
