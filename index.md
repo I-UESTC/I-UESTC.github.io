@@ -10,3 +10,4 @@ The ever accelerating process of urbanization enables modern people to live conv
 
 ## News
 
+{% include list.html data="posts" component="post-excerpt" lookup="2024" %}
