@@ -10,4 +10,4 @@ The ever accelerating process of urbanization enables modern people to live conv
 
 ## News
 
-{% include list.html data="posts" component="post-excerpt" lookup="2024" %}
+{% include list.html data="posts" component="post-excerpt" filter="title == '任福继院士团队谷雨研究员荣获2024年度IEEE SMC学会最佳汇刊论文奖'" %}
