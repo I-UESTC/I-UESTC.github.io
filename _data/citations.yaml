@@ -33,9 +33,6 @@
   date: '2024-05-20'
   link: https://doi.org/g8q9s4
   image: images/MultiHGR.gif
-  buttons:
-  - type: github
-    link: https://github.com/yibingweng/EmoTake
   tags:
   - CCF A
   - Multi-Task
@@ -60,6 +57,9 @@
   date: '2024-10-01'
   link: https://doi.org/g8q9s5
   image: images/EmoTake.png
+  buttons:
+  - type: github
+    link: https://github.com/yibingweng/EmoTake
   tags:
   - Affect Analysis
   - Decision-making
