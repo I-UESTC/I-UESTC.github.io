@@ -8,6 +8,9 @@
 
 - id: 10.1109/INFOCOM52122.2024.10621430
   image: images/MultiHGR.gif
+  buttons:
+    - type: github
+      link: https://github.com/yibingweng/EmoTake
   tags:
     - CCF A
     - Multi-Task
