@@ -42,7 +42,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TAFFC.2024.3399328
-  title: 'EmoTake: Exploring Drivers'' Emotion for Takeover Behavior Prediction'
+  title: "EmoTake: Exploring Drivers\u2019 Emotion for Takeover Behavior Prediction"
   authors:
   - Yu Gu
   - Yibing Weng
@@ -54,7 +54,7 @@
   - Liang Luo
   - Fuji Ren
   publisher: IEEE Transactions on Affective Computing
-  date: '2024-01-01'
+  date: '2024-10-01'
   link: https://doi.org/g8q9s5
   image: images/EmoTake.png
   tags:
