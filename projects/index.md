@@ -13,7 +13,7 @@ This page highlights the main research directions of our laboratory. We focus on
 
 ## Affect Analysis
 
-EmoTake: Exploring Drivers’ Emotion for Takeover Behavior Prediction
+<b>EmoTake: Exploring Drivers’ Emotion for Takeover Behavior Prediction</b>
 {:.center}
 {%
   include figure.html
@@ -30,8 +30,8 @@ The blossoming semi-automated vehicles allow drivers to engage in various non-dr
   type="source"
   link="https://github.com/yibingweng/EmoTake"
   icon="fa-brands fa-github"
-  text="Follow us on GitHub"
-  tooltip="Follow us on GitHub for new releases"
+  text="Source"
+  tooltip="Follow us on GitHub"
   flip=true
   style="bare"
 %}
