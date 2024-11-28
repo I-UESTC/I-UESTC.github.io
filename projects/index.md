@@ -13,9 +13,8 @@ This page highlights the main research directions of our laboratory. We focus on
 
 ## Affect Analysis
 
-{% capture content %}
-  EmoTake: Exploring Drivers’ Emotion for Takeover Behavior Prediction
-{% endcapture %}
+EmoTake: Exploring Drivers’ Emotion for Takeover Behavior Prediction
+{:.center}
 {%
   include figure.html
   image="images/EmoTake.png"
