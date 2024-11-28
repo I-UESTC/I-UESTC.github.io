@@ -59,7 +59,7 @@
   image: images/EmoTake.png
   buttons:
   - type: github
-    link: https://github.com/yibingweng/EmoTake
+    link: yibingweng/EmoTake
   tags:
   - Affect Analysis
   - Decision-making
