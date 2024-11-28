@@ -23,13 +23,16 @@ EmoTake: Exploring Drivers’ Emotion for Takeover Behavior Prediction
   width="800px"
 %}
 
-{%
-  include float.html
-  content=content
-  flip=true
-%}
-
 The blossoming semi-automated vehicles allow drivers to engage in various non-driving-related tasks, which may stimulate diverse emotions, thus affecting takeover safety. Though the effects of emotion on takeover behavior have recently been examined, how to effectively obtain and utilize drivers’ emotions for predicting takeover behavior remains largely unexplored. We propose EmoTake, a deep learning-empowered system that explores drivers’ emotional and physical states to predict takeover readiness, reaction time, and quality. The key enabler is a deep neural framework that extracts drivers’ fine-grained body movements from a camera and interprets them into drivers’ multi-channel emotional and physical information (e.g., facial expression, and head pose) for prediction. Our study (N = 26) verifies the efficiency of EmoTake and shows that: 1) facial expression benefits prediction; 2) emotions have diverse impacts on takeovers. Our findings provide insights into takeover prediction and in-vehicle emotion regulation.
 
-{% include float.html clear=true %}
-
+{%
+  include button.html
+  type="source"
+  link="https://github.com/yibingweng/EmoTake"
+  icon="fa-brands fa-github"
+  text="Follow us on GitHub"
+  tooltip="Follow us on GitHub for new releases"
+  flip=true
+  style="bare"
+%}
+[1] Gu Y, Weng Y, Wang Y, et al. EmoTake: Exploring Drivers' Emotion for Takeover Behavior Prediction[J]. IEEE Transactions on Affective Computing, 2024.[PDF](assets/EmoTake_Exploring_Drivers_Emotion_for_Takeover_Behavior_Prediction.pdf)
