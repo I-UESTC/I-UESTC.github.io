@@ -1,6 +1,6 @@
 ---
 name: 胡鹏
-image: images/hu_peng.jpg
+image: images/hu_peng_new.jpg
 role: postgrad
 affiliation: UESTC
 aliases:
