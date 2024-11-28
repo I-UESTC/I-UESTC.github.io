@@ -10,7 +10,7 @@ nav:
 We are the Intelligent Interaction (I+) Lab, dedicated to advancing smart sensing and context-aware technologies through Signal Processing, AI, Machine Learning, and Hardware Design. Focused on pervasive and affective computing, we foster innovation, inclusivity, and collaboration in tackling real-world challenges.
 
 {% include section.html %}
-# Professor
+# faculty
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 # PhD Student
