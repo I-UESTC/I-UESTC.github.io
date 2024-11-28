@@ -35,4 +35,4 @@ The blossoming semi-automated vehicles allow drivers to engage in various non-dr
   flip=true
   style="bare"
 %}
-[1] Gu Y, Weng Y, Wang Y, et al. EmoTake: Exploring Drivers' Emotion for Takeover Behavior Prediction[J]. IEEE Transactions on Affective Computing, 2024.[PDF](assets/EmoTake_Exploring_Drivers_Emotion_for_Takeover_Behavior_Prediction.pdf)
+[1] Gu Y, Weng Y, Wang Y, et al. EmoTake: Exploring Drivers' Emotion for Takeover Behavior Prediction[J]. IEEE Transactions on Affective Computing, 2024.[PDF](https://github.com/I-UESTC/I-UESTC.github.io/raw/main/assets/EmoTake_Exploring_Drivers_Emotion_for_Takeover_Behavior_Prediction.pdf)
