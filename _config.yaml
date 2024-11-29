@@ -8,10 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: iplus2024@163.com
+  # email: iplus2024@163.com
   # orcid: 0000-0001-8713-9213
   # google-scholar: ETJoidYAAAAJ
-  github: I-UESTC
+  # github: I-UESTC
   # twitter: I-UESTC
   # youtube: I-UESTC
 
