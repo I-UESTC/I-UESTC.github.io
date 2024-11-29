@@ -1,7 +1,7 @@
 ---
-name: Prof. Liang Luo ( 罗亮 )
+name:  A.P. Liang Luo ( 罗亮 )
 image: images/luo_liang.jpg
-role: pi
+role: ap
 affiliation: UESTC
 aliases:
   - 罗亮
