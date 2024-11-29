@@ -6,6 +6,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Professor
 
+ap:
+  icon: fa-solid fa-microscope
+  description: Associate Professor
+  
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
