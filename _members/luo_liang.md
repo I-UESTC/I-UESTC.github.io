@@ -1,6 +1,6 @@
 ---
 name: Prof. Liang Luo ( 罗亮 )
-image: images/luo_liang.png
+image: images/luo_liang.jpg
 role: pi
 affiliation: UESTC
 aliases:
