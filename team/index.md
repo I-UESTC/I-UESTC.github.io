@@ -12,6 +12,7 @@ We are the Intelligent Interaction (I+) Lab, dedicated to advancing smart sensin
 {% include section.html %}
 # faculty
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'ap'" %}
 
 # PhD Student
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
