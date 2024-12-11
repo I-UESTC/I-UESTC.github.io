@@ -1,1 +1,1 @@
-Sitemap: https://i-uestc.github.io/sitemap.xml
+Sitemap: http://ipluslab.cn/sitemap.xml
