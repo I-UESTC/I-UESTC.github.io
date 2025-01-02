@@ -1,7 +1,7 @@
 ---
 title: 实验室一篇关于面部表情识别的论文被IEEE TCSVT期刊录用
 image: images/IEEE_TCSVT_1.png
-author: luo_liang, gu_yu
+author: luo_liang
 tags: FER, Ambiguity-Aware
 ---
 <!-- excerpt start -->
