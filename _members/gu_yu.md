@@ -1,6 +1,6 @@
 ---
 name: Prof. Yu Gu ( 谷 雨 )
-image: images/gu_yu_new.jpg
+image: images/gu_yu_new_1.png
 role: pi
 affiliation: UESTC
 aliases:
