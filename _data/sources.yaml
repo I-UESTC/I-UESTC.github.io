@@ -1,3 +1,13 @@
+
+- id: 10.1109/TCSVT.2025.3527010
+  image: images/Co-dance.png
+  tags:
+    - CCF B
+    - facial expression recognition
+    - uncertainty problem
+    - ambiguous expressions
+    - robustness
+
 - id: 10.1109/ICME57554.2024.10688346
   image: images/K-Face Net.gif
   tags:
