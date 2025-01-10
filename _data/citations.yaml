@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1109/TCSVT.2025.3527010
+  title: 'Co-dance with Ambiguity: An Ambiguity-Aware Facial Expression Recognition
+    Framework for More Robustness'
+  authors:
+  - Xinran Cao
+  - Liang Luo
+  - Yu Gu
+  - Fuji Ren
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2025-01-01'
+  link: https://doi.org/g8zbx5
+  image: images/Co-dance.png
+  tags:
+  - CCF B
+  - facial expression recognition
+  - uncertainty problem
+  - ambiguous expressions
+  - robustness
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1109/ICME57554.2024.10688346
   title: 'K-Face Net: A Two-Stage Framework for Balanced Feature Space in Facial Expression
     Recognition'
