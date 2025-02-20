@@ -1,6 +1,6 @@
 ---
 title: 谷雨老师受邀担任《Research》期刊青年编委
-images/Research_journal.jpg
+image: images/Research_journal.jpg
 author: gu_yu
 tags: IEEE, TAC
 last_modified_at: ""
