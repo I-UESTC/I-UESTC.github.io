@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.48550/arXiv.2502.18013
+  title: Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating
+    Driving Fatigue
+  authors:
+  - Nengyue Su
+  - Liang Luo
+  - Yu Gu
+  - Fuji Ren
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g86pbk
+  image: images/TCMscents.png
+  tags:
+  - Perception
+  - Smell
+  - Odor Stimulation
+  - Driving fatigue
+  - In-Car systems
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1109/TCSVT.2025.3527010
   title: 'Co-dance with Ambiguity: An Ambiguity-Aware Facial Expression Recognition
     Framework for More Robustness'
