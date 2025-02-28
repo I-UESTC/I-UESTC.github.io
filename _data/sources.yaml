@@ -1,3 +1,12 @@
+- id: 10.48550/arXiv.2502.18013
+  image: images/TCMscents.png
+  tags:
+    - Perception
+    - Smell
+    - Odor Stimulation
+    - Driving fatigue
+    - In-Car systems
+
 
 - id: 10.1109/TCSVT.2025.3527010
   image: images/Co-dance.png
