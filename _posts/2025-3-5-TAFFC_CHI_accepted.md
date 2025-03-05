@@ -1,6 +1,6 @@
 ---
 title: 实验室两篇论文分别被TAFFC期刊和CHI 2025录用
-image: images/CHI_2025.png
+image: images/CHI_2025_1.png
 author: gu_yu
 tags: Affective_Computing, Multi-task_Learning, Autonomous_Driving
 last_modified_at: ""
