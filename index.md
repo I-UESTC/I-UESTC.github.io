@@ -19,14 +19,14 @@ The ever accelerating process of urbanization enables modern people to live conv
     
     {% include figure.html
       image="images/Gu-RRR-v1.png"
-      caption="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition"
+      caption="Gu-RRR-v1: A comprehensive dataset containing 81 dashcam videos of potential road rage scenarios, with detailed frame-by-frame annotations of environmental conditions, ego vehicle movements, and critical objects that trigger driver anger in various traffic situations."
       link="https://yibingweng.github.io/Gu-RRR-v1/"
       width="400px"
     %}
     
     {% include figure.html
       image="images/EmoTake.png"
-      caption="EmoTake: Emotion Recognition Dataset"
+      caption="EmoTake: A dataset exploring drivers' emotional states and their impact on takeover behavior prediction in semi-automated vehicles, using camera-based detection to interpret facial expressions and body movements."
       link="https://github.com/yibingweng/EmoTake"
       width="400px"
     %}
