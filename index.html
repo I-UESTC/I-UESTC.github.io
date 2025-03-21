@@ -468,9 +468,27 @@
   size: ;
 -->
 
-<h2 id="news">News</h2>
+<!-- Two-column layout container -->
+<div class="two-column-container">
+  <!-- Left column: News -->
+  <div class="column left-column">
+    <h2>News</h2>
+    
 
-<h3 id="2025">2025</h3>
+
+
+
+
+  
+
+  <h3 id="2025">2025</h3>
+    
+  
+
+  
+    
+
+    
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
@@ -575,6 +593,11 @@
   </div>
 </div>
 
+  
+    
+
+    
+
 <div class="post-excerpt-container">
   <div class="post-excerpt">
     
@@ -672,6 +695,11 @@
     </div>
   </div>
 </div>
+
+  
+    
+
+    
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
@@ -771,6 +799,11 @@
   </div>
 </div>
 
+  
+    
+
+    
+
 <div class="post-excerpt-container">
   <div class="post-excerpt">
     
@@ -864,6 +897,11 @@
     </div>
   </div>
 </div>
+
+  
+    
+
+    
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
@@ -963,7 +1001,18 @@
   </div>
 </div>
 
-<h3 id="2024">2024</h3>
+  
+
+  
+
+  <h3 id="2024">2024</h3>
+    
+  
+
+  
+    
+
+    
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
@@ -1063,6 +1112,11 @@
   </div>
 </div>
 
+  
+    
+
+    
+
 <div class="post-excerpt-container">
   <div class="post-excerpt">
     
@@ -1160,6 +1214,91 @@
     </div>
   </div>
 </div>
+
+  
+
+
+  </div>
+  
+  <!-- Right column: Open Resources -->
+  <div class="column right-column">
+    <h2>Open Resources</h2>
+    <div class="resources">
+      <!-- Gu-RRR-v1 Dataset -->
+      <figure class="figure">
+  <a href="https://yibingweng.github.io/Gu-RRR-v1/" class="figure-image" aria-label="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition">
+    <img src="/images/gu-rrr-v1-thumbnail.jpg" style="
+        width: 400px;
+        max-height: unset;
+      " alt="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition
+
+    </figcaption>
+  
+</figure>
+
+      
+      <!-- EmoTake Dataset -->
+      <figure class="figure">
+  <a href="https://github.com/yibingweng/EmoTake" class="figure-image" aria-label="EmoTake: Emotion Recognition Dataset">
+    <img src="/images/emotake-thumbnail.jpg" style="
+        width: 400px;
+        max-height: unset;
+      " alt="EmoTake: Emotion Recognition Dataset" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      EmoTake: Emotion Recognition Dataset
+
+    </figcaption>
+  
+</figure>
+
+    </div>
+  </div>
+</div>
+
+<!-- CSS for the two-column layout -->
+<style>
+  .two-column-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .column {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .left-column {
+    flex-basis: 55%;
+  }
+  
+  .right-column {
+    flex-basis: 35%;
+  }
+  
+  .resources {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .two-column-container {
+      flex-direction: column;
+    }
+    
+    .column {
+      width: 100%;
+    }
+  }
+</style>
   </section>
 
 
