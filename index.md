@@ -16,7 +16,7 @@ The ever accelerating process of urbanization enables modern people to live conv
   
   <div class="column right-column">
     <h2>Open Resources</h2>
-     {% include figure.html
+    {% include figure.html
       image="images/EmoTake.png"
       caption="EmoTake: A dataset exploring drivers' emotional states and their impact on takeover behavior prediction in semi-automated vehicles, using camera-based detection to interpret facial expressions and body movements."
       link="https://github.com/yibingweng/EmoTake"
@@ -52,6 +52,7 @@ The ever accelerating process of urbanization enables modern people to live conv
     flex-basis: 35%;
   }
   
+  /* Improved mobile responsiveness */
   @media (max-width: 768px) {
     .row {
       flex-direction: column;
@@ -59,6 +60,32 @@ The ever accelerating process of urbanization enables modern people to live conv
     
     .column {
       width: 100%;
+    }
+    
+    /* Ensure News content is fully visible on mobile */
+    .left-column {
+      overflow: visible;
+      width: 100%;
+      margin-bottom: 2rem;
+    }
+    
+    /* Fix text wrapping for post excerpts on mobile */
+    .post-excerpt {
+      width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      white-space: normal;
+      display: block;
+    }
+    
+    /* Adjust figure display on mobile */
+    figure {
+      max-width: 100%;
+    }
+    
+    figure img {
+      max-width: 100%;
+      height: auto;
     }
   }
 </style>
