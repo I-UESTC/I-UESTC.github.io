@@ -468,9 +468,7 @@
   size: ;
 -->
 
-<!-- Two-column layout container -->
-<div class="two-column-container">
-  <!-- Left column: News -->
+<div class="row">
   <div class="column left-column">
     <h2>News</h2>
     
@@ -1220,12 +1218,10 @@
 
   </div>
   
-  <!-- Right column: Open Resources -->
   <div class="column right-column">
     <h2>Open Resources</h2>
-    <div class="resources">
-      <!-- Gu-RRR-v1 Dataset -->
-      <figure class="figure">
+    
+    <figure class="figure">
   <a href="https://yibingweng.github.io/Gu-RRR-v1/" class="figure-image" aria-label="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition">
     <img src="/images/gu-rrr-v1-thumbnail.jpg" style="
         width: 400px;
@@ -1240,9 +1236,8 @@
   
 </figure>
 
-      
-      <!-- EmoTake Dataset -->
-      <figure class="figure">
+    
+    <figure class="figure">
   <a href="https://github.com/yibingweng/EmoTake" class="figure-image" aria-label="EmoTake: Emotion Recognition Dataset">
     <img src="/images/emotake-thumbnail.jpg" style="
         width: 400px;
@@ -1257,13 +1252,11 @@
   
 </figure>
 
-    </div>
   </div>
 </div>
 
-<!-- CSS for the two-column layout -->
 <style>
-  .two-column-container {
+  .row {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
@@ -1282,15 +1275,8 @@
     flex-basis: 35%;
   }
   
-  .resources {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-  
-  /* Responsive adjustments */
   @media (max-width: 768px) {
-    .two-column-container {
+    .row {
       flex-direction: column;
     }
     
