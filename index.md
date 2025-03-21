@@ -8,42 +8,33 @@ The ever accelerating process of urbanization enables modern people to live conv
 
 {% include section.html %}
 
-<!-- Two-column layout container -->
-<div class="two-column-container">
-  <!-- Left column: News -->
+<div class="row">
   <div class="column left-column">
     <h2>News</h2>
     {% include list.html data="posts" component="post-excerpt" %}
   </div>
   
-  <!-- Right column: Open Resources -->
   <div class="column right-column">
     <h2>Open Resources</h2>
-    <div class="resources">
-      <!-- Gu-RRR-v1 Dataset -->
-      {%
-        include figure.html
-        image="images/gu-rrr-v1-thumbnail.jpg"
-        caption="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition"
-        link="https://yibingweng.github.io/Gu-RRR-v1/"
-        width="400px"
-      %}
-      
-      <!-- EmoTake Dataset -->
-      {%
-        include figure.html
-        image="images/emotake-thumbnail.jpg"
-        caption="EmoTake: Emotion Recognition Dataset"
-        link="https://github.com/yibingweng/EmoTake"
-        width="400px"
-      %}
-    </div>
+    
+    {% include figure.html
+      image="images/gu-rrr-v1-thumbnail.jpg"
+      caption="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition"
+      link="https://yibingweng.github.io/Gu-RRR-v1/"
+      width="400px"
+    %}
+    
+    {% include figure.html
+      image="images/emotake-thumbnail.jpg"
+      caption="EmoTake: Emotion Recognition Dataset"
+      link="https://github.com/yibingweng/EmoTake"
+      width="400px"
+    %}
   </div>
 </div>
 
-<!-- CSS for the two-column layout -->
 <style>
-  .two-column-container {
+  .row {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
@@ -62,15 +53,8 @@ The ever accelerating process of urbanization enables modern people to live conv
     flex-basis: 35%;
   }
   
-  .resources {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-  
-  /* Responsive adjustments */
   @media (max-width: 768px) {
-    .two-column-container {
+    .row {
       flex-direction: column;
     }
     
