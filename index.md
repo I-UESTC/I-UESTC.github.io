@@ -18,14 +18,14 @@ The ever accelerating process of urbanization enables modern people to live conv
     <h2>Open Resources</h2>
     
     {% include figure.html
-      image="images/gu-rrr-v1-thumbnail.jpg"
+      image="images/Gu-RRR-v1.png"
       caption="Gu-RRR-v1: Dataset for Remote Respiration Rate Recognition"
       link="https://yibingweng.github.io/Gu-RRR-v1/"
       width="400px"
     %}
     
     {% include figure.html
-      image="images/emotake-thumbnail.jpg"
+      image="images/EmoTake.png"
       caption="EmoTake: Emotion Recognition Dataset"
       link="https://github.com/yibingweng/EmoTake"
       width="400px"
