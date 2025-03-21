@@ -1220,7 +1220,7 @@
   
   <div class="column right-column">
     <h2>Open Resources</h2>
-     <figure class="figure">
+    <figure class="figure">
   <a href="https://github.com/yibingweng/EmoTake" class="figure-image" aria-label="EmoTake: A dataset exploring drivers emotional states and their impact on takeover behavior prediction in semi-automated vehicles, using camera-based detection to interpret facial expressions and body movements.">
     <img src="/images/EmoTake.png" style="
         width: 400px;
@@ -1274,6 +1274,7 @@
     flex-basis: 35%;
   }
   
+  /* Improved mobile responsiveness */
   @media (max-width: 768px) {
     .row {
       flex-direction: column;
@@ -1281,6 +1282,32 @@
     
     .column {
       width: 100%;
+    }
+    
+    /* Ensure News content is fully visible on mobile */
+    .left-column {
+      overflow: visible;
+      width: 100%;
+      margin-bottom: 2rem;
+    }
+    
+    /* Fix text wrapping for post excerpts on mobile */
+    .post-excerpt {
+      width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      white-space: normal;
+      display: block;
+    }
+    
+    /* Adjust figure display on mobile */
+    figure {
+      max-width: 100%;
+    }
+    
+    figure img {
+      max-width: 100%;
+      height: auto;
     }
   }
 </style>
