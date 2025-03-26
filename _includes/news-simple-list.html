@@ -3,16 +3,25 @@
 {% assign prefix = include.prefix | default: "" %}
 
 <div class="post-simple-list">
+  {% assign years = posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
   {% assign shown_count = 0 %}
-  {% for post in posts %}
-    {% assign shown_count = shown_count | plus: 1 %}
-    {% if shown_count <= limit %}
-      {% capture post_id %}{{ prefix }}{{ forloop.index }}{% endcapture %}
-      <div class="post-simple-item">
-        <div class="post-simple-header">
-          <span class="post-simple-date">{{ post.date | date: "%B %d, %Y" }}</span>
-          <a href="{{ post.url | relative_url }}" class="post-simple-title">{{ post.title }}</a>
-        </div>
+  
+  {% for year in years %}
+    {% if shown_count < limit %}
+      <div class="year-group">
+        <h3 class="year-heading">{{ year.name }}</h3>
+        
+        <ul class="year-posts">
+          {% for post in year.items %}
+            {% if shown_count < limit %}
+              <li class="post-item">
+                <span class="post-date">{{ post.date | date: "%b %d" }}</span>
+                <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+              </li>
+              {% assign shown_count = shown_count | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+        </ul>
       </div>
     {% endif %}
   {% endfor %}
@@ -20,41 +29,58 @@
 
 <style>
   .post-simple-list {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
   }
   
-  .post-simple-item {
-    margin-bottom: 0.75rem;
-    border-bottom: 1px solid #f0f0f0;
-    padding-bottom: 0.75rem;
+  .year-heading {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 0.25rem;
   }
   
-  .post-simple-header {
+  .year-posts {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0.5rem;
+  }
+  
+  .post-item {
+    margin-bottom: 0.5rem;
     display: flex;
-    flex-direction: column;
+    align-items: baseline;
   }
   
-  .post-simple-date {
+  .post-date {
+    color: #777;
     font-size: 0.85rem;
-    color: #666;
-    margin-bottom: 0.25rem;
+    min-width: 4rem;
+    display: inline-block;
   }
   
-  .post-simple-title {
-    font-weight: 600;
+  .post-title {
+    color: #444;
     text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
   }
   
-  .post-simple-title:hover {
-    text-decoration: underline;
+  .post-title:hover {
+    color: #557A95;
+    text-decoration: none;
   }
   
   /* Mobile responsiveness */
   @media (max-width: 768px) {
-    .post-simple-header {
-      width: 100%;
-      word-wrap: break-word;
-      overflow-wrap: break-word;
+    .post-item {
+      flex-direction: row;
+      flex-wrap: nowrap;
+    }
+    
+    .post-date {
+      min-width: 3.5rem;
     }
   }
 </style>
