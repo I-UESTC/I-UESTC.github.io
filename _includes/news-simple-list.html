@@ -1,0 +1,60 @@
+{% assign posts = site.posts %}
+{% assign limit = include.limit | default: 999 %}
+{% assign prefix = include.prefix | default: "" %}
+
+<div class="post-simple-list">
+  {% assign shown_count = 0 %}
+  {% for post in posts %}
+    {% assign shown_count = shown_count | plus: 1 %}
+    {% if shown_count <= limit %}
+      {% capture post_id %}{{ prefix }}{{ forloop.index }}{% endcapture %}
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">{{ post.date | date: "%B %d, %Y" }}</span>
+          <a href="{{ post.url | relative_url }}" class="post-simple-title">{{ post.title }}</a>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<style>
+  .post-simple-list {
+    margin-bottom: 1rem;
+  }
+  
+  .post-simple-item {
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 0.75rem;
+  }
+  
+  .post-simple-header {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .post-simple-date {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.25rem;
+  }
+  
+  .post-simple-title {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  .post-simple-title:hover {
+    text-decoration: underline;
+  }
+  
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .post-simple-header {
+      width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+  }
+</style>
