@@ -11,8 +11,8 @@ The ever accelerating process of urbanization enables modern people to live conv
 <div class="row">
   <div class="column left-column">
     <h2>News</h2>
-    {% include news-list.html style="simple" limit=7 prefix="home-" hide_hidden=true %}
-    {% include button.html link="news" text="View all news" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+    {% include news-simple-list.html limit=7 prefix="home-" %}
+    {% include button.html link="blog" text="View all news" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
   </div>
   
   <div class="column right-column">
@@ -68,25 +68,6 @@ The ever accelerating process of urbanization enables modern people to live conv
       overflow: visible;
       width: 100%;
       margin-bottom: 2rem;
-    }
-    
-    /* Fix text wrapping for post excerpts on mobile */
-    .post-excerpt {
-      width: 100%;
-      word-wrap: break-word;
-      overflow-wrap: break-word;
-      white-space: normal;
-      display: block;
-    }
-    
-    /* Adjust figure display on mobile */
-    figure {
-      max-width: 100%;
-    }
-    
-    figure img {
-      max-width: 100%;
-      height: auto;
     }
   }
 </style>
