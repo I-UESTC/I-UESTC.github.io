@@ -1,0 +1,52 @@
+{% assign news_data = site.data.news %}
+{% assign limit = include.limit | default: 999 %}
+{% assign style = include.style | default: "calendar" %}
+{% assign expanded = include.expanded | default: false %}
+{% assign prefix = include.prefix | default: "" %}
+{% assign hide_hidden = include.hide_hidden | default: false %}
+
+<div class="news-{{ style }}-list">
+  {% assign shown_count = 0 %}
+  {% for news in news_data %}
+    {% if hide_hidden == true and news.hide_from_front == true %}
+      {% continue %}
+    {% endif %}
+    
+    {% assign shown_count = shown_count | plus: 1 %}
+    {% if shown_count <= limit %}
+      {% if style == "calendar" %}
+        {% include news-calendar-item.html 
+           title=news.title
+           date=news.date
+           content=news.content
+           expanded=expanded
+        %}
+      {% else %}
+        {% capture news_id %}{{ prefix }}{{ forloop.index }}{% endcapture %}
+        {% include news-simple-item.html 
+           title=news.title
+           date=news.date
+           content=news.content
+           id=news_id
+        %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% if style == "simple" %}
+<script>
+function toggleNewsContent(id) {
+  var content = document.getElementById('news-content-' + id);
+  var link = document.getElementById('news-more-' + id);
+  
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+    link.innerHTML = '(less)';
+  } else {
+    content.style.display = 'none';
+    link.innerHTML = '(more)';
+  }
+}
+</script>
+{% endif %}
