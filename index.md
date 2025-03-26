@@ -11,7 +11,7 @@ The ever accelerating process of urbanization enables modern people to live conv
 <div class="row">
   <div class="column left-column">
     <h2>News</h2>
-    {% include news-simple-list.html limit=7 prefix="home-" %}
+    {% include news-simple-list.html limit=15 prefix="home-" %}
     <div class="view-all-link">
       <a href="{{ '/blog' | relative_url }}" class="view-more">
         View all news <span class="arrow">→</span>
