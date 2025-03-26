@@ -475,37 +475,135 @@
 
 
 
-
-
-
-<div class="news-simple-list">
+<div class="post-simple-list">
   
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">March 05, 2025</span>
+          <a href="/2025/03/05/TAFFC_CHI_accepted.html" class="post-simple-title">实验室两篇论文分别被TAFFC期刊和CHI 2025录用</a>
+        </div>
+      </div>
+    
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">February 20, 2025</span>
+          <a href="/2025/02/20/Research.html" class="post-simple-title">谷雨老师受邀担任《Research》期刊青年编委</a>
+        </div>
+      </div>
+    
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">February 18, 2025</span>
+          <a href="/2025/02/18/TAC.html" class="post-simple-title">谷雨老师获邀担任IEEE情感计算汇刊编委</a>
+        </div>
+      </div>
+    
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">January 06, 2025</span>
+          <a href="/2025/01/06/CAAI.html" class="post-simple-title">谷雨老师当选中国人工智能学会情感智能专委会副秘书长</a>
+        </div>
+      </div>
+    
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">January 02, 2025</span>
+          <a href="/2025/01/02/TCSVT_accepted.html" class="post-simple-title">实验室一篇关于面部表情识别的论文被IEEE TCSVT期刊录用</a>
+        </div>
+      </div>
+    
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">December 10, 2024</span>
+          <a href="/2024/12/10/AAAl_2025_accepted.html" class="post-simple-title">实验室一篇关于交通流量预测的论文被AAAI 2025会议录用</a>
+        </div>
+      </div>
+    
+  
+    
+    
+      
+      <div class="post-simple-item">
+        <div class="post-simple-header">
+          <span class="post-simple-date">October 14, 2024</span>
+          <a href="/2024/10/14/best_paper_2024.html" class="post-simple-title">任福继院士团队谷雨研究员荣获2024年度IEEE SMC学会最佳汇刊论文奖</a>
+        </div>
+      </div>
+    
   
 </div>
 
-
-<script>
-function toggleNewsContent(id) {
-  var content = document.getElementById('news-content-' + id);
-  var link = document.getElementById('news-more-' + id);
-  
-  if (content.style.display === 'none') {
-    content.style.display = 'block';
-    link.innerHTML = '(less)';
-  } else {
-    content.style.display = 'none';
-    link.innerHTML = '(more)';
+<style>
+  .post-simple-list {
+    margin-bottom: 1rem;
   }
-}
-</script>
-
+  
+  .post-simple-item {
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 0.75rem;
+  }
+  
+  .post-simple-header {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .post-simple-date {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.25rem;
+  }
+  
+  .post-simple-title {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  .post-simple-title:hover {
+    text-decoration: underline;
+  }
+  
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .post-simple-header {
+      width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+  }
+</style>
 
     
 
 
 
   <div class="button-wrapper">
-    <a class="button" href="/news" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
+    <a class="button" href="/blog" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
       <i class="icon fa-solid fa-arrow-right"></i>
       
         <span>View all news</span>
@@ -587,25 +685,6 @@ function toggleNewsContent(id) {
       overflow: visible;
       width: 100%;
       margin-bottom: 2rem;
-    }
-    
-    /* Fix text wrapping for post excerpts on mobile */
-    .post-excerpt {
-      width: 100%;
-      word-wrap: break-word;
-      overflow-wrap: break-word;
-      white-space: normal;
-      display: block;
-    }
-    
-    /* Adjust figure display on mobile */
-    figure {
-      max-width: 100%;
-    }
-    
-    figure img {
-      max-width: 100%;
-      height: auto;
     }
   }
 </style>
