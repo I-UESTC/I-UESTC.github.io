@@ -11,7 +11,8 @@ The ever accelerating process of urbanization enables modern people to live conv
 <div class="row">
   <div class="column left-column">
     <h2>News</h2>
-    {% include list.html data="posts" component="post-excerpt" %}
+    {% include news-list.html style="simple" limit=7 prefix="home-" hide_hidden=true %}
+    {% include button.html link="news" text="View all news" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
   </div>
   
   <div class="column right-column">
