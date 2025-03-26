@@ -616,20 +616,11 @@
   }
 </style>
 
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="/blog" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
-      
-        <span>View all news</span>
-      
-    </a>
-  </div>
-
-
+    <div class="view-all-link">
+      <a href="/blog" class="view-more">
+        View all news <span class="arrow">→</span>
+      </a>
+    </div>
   </div>
   
   <div class="column right-column">
@@ -688,6 +679,31 @@
     flex-basis: 35%;
   }
   
+  .view-all-link {
+    margin-top: 0.75rem;
+    text-align: right;
+  }
+  
+  .view-more {
+    font-size: 0.9rem;
+    color: #666;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  .view-more:hover {
+    color: #557A95;
+  }
+  
+  .arrow {
+    display: inline-block;
+    transition: transform 0.2s ease;
+  }
+  
+  .view-more:hover .arrow {
+    transform: translateX(3px);
+  }
+  
   /* Improved mobile responsiveness */
   @media (max-width: 768px) {
     .row {
@@ -698,7 +714,6 @@
       width: 100%;
     }
     
-    /* Ensure News content is fully visible on mobile */
     .left-column {
       overflow: visible;
       width: 100%;
