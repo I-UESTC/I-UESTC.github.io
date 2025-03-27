@@ -21,19 +21,34 @@ The ever accelerating process of urbanization enables modern people to live conv
   
   <div class="column right-column">
     <h2>Open Resources</h2>
-    {% include figure.html
-      image="images/EmoTake.png"
-      caption="EmoTake: A dataset exploring drivers' emotional states and their impact on takeover behavior prediction in semi-automated vehicles, using camera-based detection to interpret facial expressions and body movements."
-      link="https://github.com/yibingweng/EmoTake"
-      width="400px"
-    %}
     
-    {% include figure.html
-      image="images/Gu_RRR_v1.png"
-      caption="Gu-RRR-v1: A comprehensive dataset containing 81 dashcam videos of potential road rage scenarios, with detailed frame-by-frame annotations of environmental conditions, ego vehicle movements, and critical objects that trigger driver anger in various traffic situations."
-      link="https://yibingweng.github.io/Gu-RRR-v1/"
-      width="400px"
-    %}
+    <div class="resource-item">
+      {% include figure.html
+        image="images/EmoTake.png"
+        caption="EmoTake: A dataset exploring drivers' emotional states and their impact on takeover behavior prediction in semi-automated vehicles, using camera-based detection to interpret facial expressions and body movements."
+        link="https://github.com/yibingweng/EmoTake"
+        width="400px"
+      %}
+      <div class="resource-link">
+        <a href="https://github.com/yibingweng/EmoTake" class="resource-more">
+          Explore dataset <span class="resource-icon">↗</span>
+        </a>
+      </div>
+    </div>
+    
+    <div class="resource-item">
+      {% include figure.html
+        image="images/Gu_RRR_v1.png"
+        caption="Gu-RRR-v1: A comprehensive dataset containing 81 dashcam videos of potential road rage scenarios, with detailed frame-by-frame annotations of environmental conditions, ego vehicle movements, and critical objects that trigger driver anger in various traffic situations."
+        link="https://yibingweng.github.io/Gu-RRR-v1/"
+        width="400px"
+      %}
+      <div class="resource-link">
+        <a href="https://yibingweng.github.io/Gu-RRR-v1/" class="resource-more">
+          Explore dataset <span class="resource-icon">↗</span>
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -80,6 +95,39 @@ The ever accelerating process of urbanization enables modern people to live conv
   
   .view-more:hover .arrow {
     transform: translateX(3px);
+  }
+  
+  /* Resource styling */
+  .resource-item {
+    margin-bottom: 2rem;
+  }
+  
+  .resource-link {
+    margin-top: 0.5rem;
+    text-align: right;
+  }
+  
+  .resource-more {
+    font-size: 0.9rem;
+    color: #557A95;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+  }
+  
+  .resource-more:hover {
+    background-color: rgba(85, 122, 149, 0.1);
+  }
+  
+  .resource-icon {
+    display: inline-block;
+    margin-left: 3px;
+    transition: transform 0.2s ease;
+  }
+  
+  .resource-more:hover .resource-icon {
+    transform: translate(2px, -2px);
   }
   
   /* Improved mobile responsiveness */
