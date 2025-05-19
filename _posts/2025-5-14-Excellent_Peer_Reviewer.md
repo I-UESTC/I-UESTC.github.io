@@ -13,4 +13,4 @@ last_modified_at: ""
 {% include figure.html image="images/ExcellentPeerReviewer.jpg" caption="2024年度优秀审稿专家证书" width="400px" %}
 {% include figure.html image="images/LetterofAppointment.jpg" caption="《信息对抗技术》编委聘书（2025-2027）" width="400px" %}
 
-《信息对抗技术》期刊由国防科技类学电子对抗学院主办，此次授予谷雨老师"优秀审稿专家"称号，以表彰其在2024年度审稿工作中展现的学术严谨性与专业贡献。同期发布的编委聘书确认，谷雨老师将自2025年1月起参与期刊的学术指导工作，为期三年。
+《信息对抗技术》期刊由国防科技大学电子对抗学院主办，此次授予谷雨老师"优秀审稿专家"称号，以表彰其在2024年度审稿工作中展现的学术严谨性与专业贡献。同期发布的编委聘书确认，谷雨老师将自2025年1月起参与期刊的学术指导工作，为期三年。
