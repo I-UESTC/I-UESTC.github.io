@@ -21,7 +21,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TCSVT.2025.3527010
-  title: 'Co-dance with Ambiguity: An Ambiguity-Aware Facial Expression Recognition
+  title: 'Co-Dance With Ambiguity: An Ambiguity-Aware Facial Expression Recognition
     Framework for More Robustness'
   authors:
   - Xinran Cao
@@ -29,7 +29,7 @@
   - Yu Gu
   - Fuji Ren
   publisher: IEEE Transactions on Circuits and Systems for Video Technology
-  date: '2025-01-01'
+  date: '2025-06-01'
   link: https://doi.org/g8zbx5
   image: images/Co-dance.png
   tags:
