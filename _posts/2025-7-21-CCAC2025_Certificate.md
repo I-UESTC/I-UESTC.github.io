@@ -2,7 +2,7 @@
 title: 谷雨老师担任第五届中国情感计算大会多模态情感论坛特邀报告人
 image: images/CCAC_2025.jpg
 author: gu_yu
-tags: Conference
+tags: Award
 last_modified_at: ""
 ---
 <!-- excerpt start -->
