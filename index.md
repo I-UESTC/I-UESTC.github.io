@@ -24,14 +24,14 @@ The ever accelerating process of urbanization enables modern people to live conv
 
     <div class="resource-item">
       {% include figure.html
-        image="images/EmoTake.png" 
-        caption="New Driver-Related Dataset: A dataset supporting driving safety research (modify this to describe your dataset's content, such as data type, sample size, or research purpose)."
+        image="images/IMG_Scene.png" 
+        caption="围绕智能驾舱中的情感认知与调节，本项目致力于构建“感知-认知-调节”闭环系统，推动智能驾舱向更安全、更舒适、更人性化的方向发展"
         link="http://118.24.143.121/"
         width="400px"
       %}
       <div class="resource-link">
         <a href="http://118.24.143.121/" class="resource-more">
-          Explore dataset <span class="resource-icon">↗</span>
+          查看更多细节 <span class="resource-icon">↗</span>
         </a>
       </div>
     </div>
