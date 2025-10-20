@@ -52,22 +52,6 @@ The ever accelerating process of urbanization enables modern people to live conv
   </div>
 </div>
 
-    <div class="resource-item">
-      {% include figure.html
-        image="images/Gu_RRR_v1.png"
-        caption="Gu-RRR-v1: A comprehensive dataset containing 81 dashcam videos of potential road rage scenarios, with detailed frame-by-frame annotations of environmental conditions, ego vehicle movements, and critical objects that trigger driver anger in various traffic situations."
-        link="https://yibingweng.github.io/Gu-RRR-v1/"
-        width="400px"
-      %}
-      <div class="resource-link">
-        <a href="http://118.24.143.121/" class="resource-more">
-          Explore dataset <span class="resource-icon">↗</span>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
 <style>
   .row {
     display: flex;
