@@ -24,7 +24,7 @@ The ever accelerating process of urbanization enables modern people to live conv
 
     <div class="resource-item">
       {% include figure.html
-        image="images/EmoTake.png"  <!-- 注释移到标签外，或直接删除 -->
+        image="images/EmoTake.png" 
         caption="New Driver-Related Dataset: A dataset supporting driving safety research (modify this to describe your dataset's content, such as data type, sample size, or research purpose)."
         link="http://118.24.143.121/"
         width="400px"
