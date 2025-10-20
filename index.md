@@ -24,10 +24,10 @@ The ever accelerating process of urbanization enables modern people to live conv
 
     <div class="resource-item">
       {% include figure.html
-        image="images/EmoTake.png"  <!-- 替换为你的数据集图片路径，如"images/new_driver_data.png" -->
-        caption="New Driver-Related Dataset: A dataset supporting driving safety research (you can modify this part to describe your dataset's content, such as data type, sample size, or research purpose)."  <!-- 替换为你的数据集描述 -->
-        link="http://118.24.143.121/"  <!-- 你提供的目标链接 -->
-        width="400px"  <!-- 与现有模块保持一致的宽度，确保页面整齐 -->
+        image="images/EmoTake.png"  <!-- 注释移到标签外，或直接删除 -->
+        caption="New Driver-Related Dataset: A dataset supporting driving safety research (modify this to describe your dataset's content, such as data type, sample size, or research purpose)."
+        link="http://118.24.143.121/"
+        width="400px"
       %}
       <div class="resource-link">
         <a href="http://118.24.143.121/" class="resource-more">
