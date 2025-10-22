@@ -1,7 +1,7 @@
 ---
 name: 钱嘉乐
 image: images/qian_jiale.jpg
-role: undergraduate
+role: undergrad
 affiliation: UESTC
 aliases:
   - 钱嘉乐
