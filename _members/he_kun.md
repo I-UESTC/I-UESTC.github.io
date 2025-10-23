@@ -1,6 +1,6 @@
 ---
 name: 何坤
-image: images/he_kun.png
+image: images/he_kun.jpg
 role: postgrad
 affiliation: UESTC
 aliases:
