@@ -1,7 +1,7 @@
 ---
 name: 沈明辉
 image: images/shen_minghui.png
-role: postgrad
+role: Second-Year postgrad
 affiliation: UESTC
 aliases:
   - 沈明辉
