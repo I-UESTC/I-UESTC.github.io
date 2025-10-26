@@ -1,7 +1,7 @@
 ---
 name: 苏能悦
 image: images/su_nengyue_1.jpg
-role: postgrad
+role: Third-Year postgrad
 affiliation: UESTC
 aliases:
   - 苏能悦
