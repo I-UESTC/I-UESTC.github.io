@@ -1,7 +1,7 @@
 ---
 name: 李玉翔
 image: images/li_yuxiang.jpg
-role: postgrad
+role: Second-Year postgrad
 affiliation: UESTC
 aliases:
   - 李玉翔
