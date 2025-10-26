@@ -1,7 +1,7 @@
 ---
 name: 陈彬
 image: images/chen_bin.jpg
-role: postgrad
+role: First-Year postgrad
 affiliation: UESTC
 aliases:
   - 陈彬
