@@ -1,7 +1,7 @@
 ---
 name: 白宇
 image: images/bai_yu.png
-role: postgrad
+role: Third-Year postgrad
 affiliation: UESTC
 aliases:
   - 白宇
