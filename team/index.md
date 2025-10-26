@@ -18,7 +18,12 @@ We are the Intelligent Interaction (I+) Lab, dedicated to advancing smart sensin
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 # Postgraduate Student
-{% include list.html data="members" component="portrait" filter="role == 'postgrad'" %}
+# Third-Year
+{% include list.html data="members" component="portrait" filter="role == 'Third-Year postgrad'" %}
+# Second-Year
+{% include list.html data="members" component="portrait" filter="role == 'Second-Year postgrad'" %}
+# First-Year
+{% include list.html data="members" component="portrait" filter="role == 'First-Year postgrad'" %}
 
 # Undergrad Student
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
