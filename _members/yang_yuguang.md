@@ -1,7 +1,7 @@
 ---
 name: 杨宇光
 image: images/yangyuguang.png
-role: postgrad
+role: First-Year postgrad
 affiliation: UESTC
 aliases:
   - 杨宇光
