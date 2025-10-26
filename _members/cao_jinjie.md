@@ -1,7 +1,7 @@
 ---
 name: 曹津杰
 image: images/cao_jinjie.jpg
-role: postgrad
+role: Third-Year postgrad
 affiliation: UESTC
 aliases:
   - 曹津杰
