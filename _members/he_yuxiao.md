@@ -1,7 +1,7 @@
 ---
 name: 贺雨潇
 image: images/he_yuxiao.png
-role: postgrad
+role: Third-Year postgrad
 affiliation: UESTC
 aliases:
   - 贺雨潇
