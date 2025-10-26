@@ -1,7 +1,7 @@
 ---
 name: 王懿行
 image: images/wang_yixing.jpg
-role: postgrad
+role: First-Year postgrad
 affiliation: UESTC
 aliases:
   - 王懿行
