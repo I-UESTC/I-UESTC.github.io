@@ -1,7 +1,7 @@
 ---
 name: 曾令雨
 image: images/zeng_lingyu_1.jpg
-role: postgrad
+role: Second-Year postgrad
 affiliation: UESTC
 aliases:
   - 曾令雨
