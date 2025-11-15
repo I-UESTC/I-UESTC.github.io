@@ -6,7 +6,7 @@ affiliation: UESTC
 aliases:
   - 冯新宇
   - Xinyu Feng
-links:Google Scholar：https://scholar.google.com/citations?hl=zh-CN&user=tAJ1m3cAAAAJ
+links:https://scholar.google.com/citations?hl=zh-CN&user=tAJ1m3cAAAAJ
 Github：https://github.com/xyFeng-guet
 ---
 
