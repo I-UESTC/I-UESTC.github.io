@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://ipluslab.cn/feed.xml" rel="self" type="application/atom+xml" /><link href="http://ipluslab.cn/" rel="alternate" type="text/html" /><updated>2026-08-09T12:22:16+00:00</updated><id>http://ipluslab.cn/feed.xml</id><title type="html">I+ Lab</title><subtitle>The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI) and Machine Learning (ML) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.</subtitle><entry><title type="html">谷雨研究员受邀在第六届中国情感计算大会作专题讲习并主持前沿趋势论坛</title><link href="http://ipluslab.cn/2026/07/10/CCAC.html" rel="alternate" type="text/html" title="谷雨研究员受邀在第六届中国情感计算大会作专题讲习并主持前沿趋势论坛" /><published>2026-07-10T00:00:00+00:00</published><updated>2026-07-10T00:00:00+00:00</updated><id>http://ipluslab.cn/2026/07/10/CCAC</id><content type="html" xml:base="http://ipluslab.cn/2026/07/10/CCAC.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://ipluslab.cn/feed.xml" rel="self" type="application/atom+xml" /><link href="http://ipluslab.cn/" rel="alternate" type="text/html" /><updated>2026-08-09T12:31:21+00:00</updated><id>http://ipluslab.cn/feed.xml</id><title type="html">I+ Lab</title><subtitle>The ever accelerating process of urbanization enables modern people to live conveniently in a fully-connected world, urging for rich and real-time physiological and psychological healthcare services. To this end, Intelligent Interaction (I+) lab aims to integrate promising tools from diversified fields like Signal Processing (SP), Artificial Intelligence (AI) and Machine Learning (ML) to develop innovative technologies and systems for smart ambient sensing and context understanding with a focus on pervasive computing and affective computing.</subtitle><entry><title type="html">谷雨研究员受邀在CSIG青年科学家会议2026视觉认知与情感计算论坛作专题报告</title><link href="http://ipluslab.cn/2026/08/03/CSIG.html" rel="alternate" type="text/html" title="谷雨研究员受邀在CSIG青年科学家会议2026视觉认知与情感计算论坛作专题报告" /><published>2026-08-03T00:00:00+00:00</published><updated>2026-08-03T00:00:00+00:00</updated><id>http://ipluslab.cn/2026/08/03/CSIG</id><content type="html" xml:base="http://ipluslab.cn/2026/08/03/CSIG.html"><![CDATA[<!-- excerpt start -->
+<p>2026年8月3日至6日，第二十二届中国图象图形学学会青年科学家会议（CSIG青年科学家会议2026）在云南昆明举行。本次会议由中国图象图形学学会主办，昆明理工大学、云南师范大学、云南大学及中国图象图形学学会青年工作委员会联合承办，汇聚图像图形、人工智能及相关交叉领域的专家学者，围绕领域前沿技术与热点问题开展深入交流。电子科技大学谷雨研究员受邀参加本次大会，并在“视觉认知与情感计算论坛”作专题报告。<br />
+<!-- excerpt end --></p>
+
+<p>中国图象图形学学会青年科学家会议面向国际学术前沿与国家战略需求，致力于为图像图形领域青年学者搭建高水平学术交流与合作平台。本届大会围绕大语言模型、生成式人工智能、视觉认知、情感计算、具身智能等前沿方向设置了大会特邀报告、讲习班、学术服务论坛、青年学者服务论坛及学术前沿论坛等多种形式的学术活动，为学界与产业界开展深入交流提供了平台。</p>
+
+<figure class="figure center">
+  <a class="figure-image" aria-label="谷雨研究员受邀担任CSIG青年科学家会议2026报告讲者">
+    <img src="/images/2026_CSIG_01.png" style="
+        width: 600px;
+        max-height: unset;
+      " alt="谷雨研究员受邀担任CSIG青年科学家会议2026报告讲者" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      谷雨研究员受邀担任CSIG青年科学家会议2026报告讲者
+
+    </figcaption>
+  
+</figure>
+
+<p>在“视觉认知与情感计算论坛”中，谷雨研究员围绕路怒情绪的认知、建模与调节开展专题分享。报告从真实驾驶环境中的路怒问题出发，探讨交通场景、驾驶行为与驾驶员情绪之间的复杂关联，并结合团队近年来在人机情感交互方向的研究工作，介绍了对路怒情绪动态变化规律及其计算建模的探索。</p>
+
+<p>针对传统情感计算更多关注情绪形成后的识别与响应这一问题，报告进一步介绍了团队在主动情感调节方面的研究进展。相关研究通过对路怒情绪形成与衰减过程进行建模，探索情绪诱因、情绪演化过程与调节策略之间的联系，并进一步研究前因聚焦式多感官刺激调节方法，希望将情感调节的介入时机从情绪形成后的被动响应前移至情绪产生和发展阶段，为构建更加主动、自然和个性化的人机情感交互系统提供新的研究思路。</p>
+
+<figure class="figure center">
+  <a class="figure-image" aria-label="CSIG青年科学家会议2026视觉认知与情感计算论坛讲者">
+    <img src="/images/2026_CSIG_02.png" style="
+        width: 600px;
+        max-height: unset;
+      " alt="CSIG青年科学家会议2026视觉认知与情感计算论坛讲者" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      CSIG青年科学家会议2026视觉认知与情感计算论坛讲者
+
+    </figcaption>
+  
+</figure>
+
+<p>本次“视觉认知与情感计算论坛”邀请来自北京理工大学、中国科学技术大学、哈尔滨工业大学、电子科技大学、华南理工大学、云南大学等高校的专家学者参与交流，围绕视觉认知、情感理解与情感计算等相关前沿问题展开研讨。通过不同研究方向之间的交流与碰撞，进一步推动视觉智能、认知科学与情感计算等领域的交叉融合。</p>
+
+<p>此次参会进一步加强了团队与国内图像图形及情感计算领域专家学者之间的学术交流，也展示了团队在路怒情感认知、动态建模与主动情感调节方向上的研究探索，为进一步开展面向真实环境的人机情感交互研究提供了新的思路。</p>]]></content><author><name>gu_yu</name></author><category term="CSIG" /><summary type="html"><![CDATA[2026年8月3日至6日，第二十二届中国图象图形学学会青年科学家会议（CSIG青年科学家会议2026）在云南昆明举行。本次会议由中国图象图形学学会主办，昆明理工大学、云南师范大学、云南大学及中国图象图形学学会青年工作委员会联合承办，汇聚图像图形、人工智能及相关交叉领域的专家学者，围绕领域前沿技术与热点问题开展深入交流。电子科技大学谷雨研究员受邀参加本次大会，并在“视觉认知与情感计算论坛”作专题报告。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://ipluslab.cn/images/2026_CSIG_01.png" /><media:content medium="image" url="http://ipluslab.cn/images/2026_CSIG_01.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">谷雨研究员受邀在第六届中国情感计算大会作专题讲习并主持前沿趋势论坛</title><link href="http://ipluslab.cn/2026/07/10/CCAC.html" rel="alternate" type="text/html" title="谷雨研究员受邀在第六届中国情感计算大会作专题讲习并主持前沿趋势论坛" /><published>2026-07-10T00:00:00+00:00</published><updated>2026-07-10T00:00:00+00:00</updated><id>http://ipluslab.cn/2026/07/10/CCAC</id><content type="html" xml:base="http://ipluslab.cn/2026/07/10/CCAC.html"><![CDATA[<!-- excerpt start -->
 <p>2026年7月10日至12日，第六届中国情感计算大会（The Sixth Chinese Conference on Affective Computing，CCAC2026）在湖北武汉举行。本次大会由中国中文信息学会情感计算专业委员会主办，武汉纺织大学与武汉大学联合承办，汇聚了来自海内外高校、科研院所及企业的专家学者，围绕多模态情感计算、情感脑机接口、大模型情感对齐等情感计算领域前沿方向展开深入交流。电子科技大学谷雨研究员受邀参加本次大会，作题为“情感认知与调节”的专题讲习，并担任前沿趋势论坛主席，组织开展前沿学术交流。<br />
 <!-- excerpt end --></p>
 
@@ -151,7 +193,4 @@
 
 <p>第十四届中国智能产业大会将于8月29-31日在常州举办。谷雨老师受邀担任”智能时代的虚实融合”专题会议主席，并将分享智能驾舱情感计算的最新研究成果。</p>]]></content><author><name>gu_yu</name></author><category term="Conference" /><summary type="html"><![CDATA[谷雨老师担任CIIS2025”智能时代的虚实融合”专题会议主席，并将作题为”智能驾舱中情感认知与调节研究”的特邀报告。 CIIS2025智能时代的虚实融合专题会议 第十四届中国智能产业大会将于8月29-31日在常州举办。谷雨老师受邀担任”智能时代的虚实融合”专题会议主席，并将分享智能驾舱情感计算的最新研究成果。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://ipluslab.cn/images/CIIS2025.jpg" /><media:content medium="image" url="http://ipluslab.cn/images/CIIS2025.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">谷雨老师获邀担任IEEE人机系统汇刊副编辑</title><link href="http://ipluslab.cn/2025/08/14/THMS.html" rel="alternate" type="text/html" title="谷雨老师获邀担任IEEE人机系统汇刊副编辑" /><published>2025-08-14T00:00:00+00:00</published><updated>2025-08-14T00:00:00+00:00</updated><id>http://ipluslab.cn/2025/08/14/THMS</id><content type="html" xml:base="http://ipluslab.cn/2025/08/14/THMS.html"><![CDATA[<!-- excerpt start -->
 <p>谷雨老师收到人机系统领域重要期刊IEEE Transactions on Human-Machine Systems（THMS）主编Ljiljana Trajkovic教授（加拿大西蒙弗雷泽大学）的邀请，即日起担任该刊副编辑（Associate Editor，AE）。<br />
-<!-- excerpt end --></p>]]></content><author><name>gu_yu</name></author><category term="IEEE," /><category term="THMS," /><category term="Associate" /><category term="Editor" /><summary type="html"><![CDATA[谷雨老师收到人机系统领域重要期刊IEEE Transactions on Human-Machine Systems（THMS）主编Ljiljana Trajkovic教授（加拿大西蒙弗雷泽大学）的邀请，即日起担任该刊副编辑（Associate Editor，AE）。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://ipluslab.cn/images/THMS.jpg" /><media:content medium="image" url="http://ipluslab.cn/images/THMS.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">谷雨老师受邀担任AAAI-26程序委员会成员</title><link href="http://ipluslab.cn/2025/07/22/AAAI_26_invitation.html" rel="alternate" type="text/html" title="谷雨老师受邀担任AAAI-26程序委员会成员" /><published>2025-07-22T00:00:00+00:00</published><updated>2025-07-22T00:00:00+00:00</updated><id>http://ipluslab.cn/2025/07/22/AAAI_26_invitation</id><content type="html" xml:base="http://ipluslab.cn/2025/07/22/AAAI_26_invitation.html"><![CDATA[<!-- excerpt start -->
-<p>谷雨老师受邀担任第26届AAAI人工智能大会（AAAI-26）程序委员会成员。
-<!-- excerpt end -->
-AAAI是人工智能领域的国际顶级学术会议。</p>]]></content><author><name>gu_yu</name></author><category term="Award" /><summary type="html"><![CDATA[谷雨老师受邀担任第26届AAAI人工智能大会（AAAI-26）程序委员会成员。 AAAI是人工智能领域的国际顶级学术会议。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://ipluslab.cn/images/AAAI.png" /><media:content medium="image" url="http://ipluslab.cn/images/AAAI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<!-- excerpt end --></p>]]></content><author><name>gu_yu</name></author><category term="IEEE," /><category term="THMS," /><category term="Associate" /><category term="Editor" /><summary type="html"><![CDATA[谷雨老师收到人机系统领域重要期刊IEEE Transactions on Human-Machine Systems（THMS）主编Ljiljana Trajkovic教授（加拿大西蒙弗雷泽大学）的邀请，即日起担任该刊副编辑（Associate Editor，AE）。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://ipluslab.cn/images/THMS.jpg" /><media:content medium="image" url="http://ipluslab.cn/images/THMS.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
